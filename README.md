@@ -1,3 +1,15 @@
+# Github Finder project based on Brad Traversy 2019 React tutorial
+
+## Projet prévu pour un déployment sur netlify avec le cli de netlify
+
+- Penser à poser les environment variables et vérifier s'il faut les poser avec ou sans les ""
+  Key : GITHUB_CLIENT_ID Value: "Iv1.b3991ad38f3b8aff"
+  Key : GITHUB_CLIENT_SECRET Value: "9d7b759195a995edf6fb31cb7fd59d8ea398f704"
+
+- npm run build
+
+- netlify deploy --prod
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# github-finder" 
+"# github-finder"
