@@ -3,8 +3,8 @@
 ## Projet prévu pour un déployment sur netlify avec le cli de netlify
 
 - Penser à poser les environment variables et vérifier s'il faut les poser avec ou sans les ""
-  Key : GITHUB_CLIENT_ID Value: "Iv1.b3991ad38f3b8aff"
-  Key : GITHUB_CLIENT_SECRET Value: "9d7b759195a995edf6fb31cb7fd59d8ea398f704"
+  Key : GITHUB_CLIENT_ID Value: "go fichier .env.local"
+  Key : GITHUB_CLIENT_SECRET Value: "go fichier .env.local"
 
 - npm run build
 
